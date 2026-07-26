@@ -30,25 +30,24 @@ The purpose of this lab is to understand how penetration testers analyze web app
 
 ---
 
-# 🧪 Lab Setup
+# 🧪  Lab Workflow
 
-Host Machine
 
-↓
+✔ Installed Docker on Kali Linux
 
-Kali Linux Virtual Machine
+✔ Started and verified Docker service
 
-↓
+✔ Deployed OWASP Juice Shop using Docker
 
-Docker
+✔ Accessed Juice Shop on localhost:3000
 
-↓
+✔ Configured Burp Suite Community Edition
 
-OWASP Juice Shop
+✔ Captured HTTP requests using Burp Proxy
 
-↓
+✔ Explored the application using Target Site Map
 
-Burp Suite Community Edition
+✔ Solved initial OWASP Juice Shop challenges
 
 ---
 
@@ -68,20 +67,21 @@ Burp Suite Community Edition
 
 # 📷 Screenshots
 
-- Docker Installation
+- Docker Installation and service verification
 - OWASP Juice Shop Homepage
-- Burp Suite Dashboard
-- First HTTP Request Captured
+- Burp Suite HTTP History
+- Burp Suite Target Site Map
+- Initial OWASP Juice Shop Challenges
 
 ---
 
-# 📚 Skills Demonstrated
+# 📚 Learning Outcomes
 
-- Docker Container Deployment
-- Burp Suite Configuration
-- HTTP Traffic Analysis
-- Web Application Security Testing
-- Reconnaissance Methodology
+- Learned Docker container deployment
+- Understood web application proxying using Burp Suite
+- Captured and analyzed HTTP requests
+- Explored application endpoints using Target Site Map
+- Practiced with OWASP Juice Shop security challenges
 
 ---
 
@@ -103,7 +103,7 @@ This project was performed only on OWASP Juice Shop, an intentionally vulnerable
 ## Screenshots
 
 ### 1. Docker Installation and Service Verification
-![Docker](screenshots/01-docker-installation-and-service-status.png)
+![Docker Installation](screenshots/01-docker-installation-and-service-status.png)
 
 ### 2. OWASP Juice Shop Running
 ![Juice Shop](screenshots/02-owasp-juice-shop-homepage.png)
@@ -112,7 +112,8 @@ This project was performed only on OWASP Juice Shop, an intentionally vulnerable
 ![HTTP History](screenshots/03-burp-suite-http-history.png)
 
 ### 4. Burp Suite Target Site Map
-![Target](screenshots/04-burp-suite-target-site-map.png)
+![Target Site Map](screenshots/04-burp-suite-target-site-map.png)
 
 ### 5. Initial OWASP Juice Shop Challenges
-![Challenges](screenshots/05-owasp-juice-shop-initial-challenges.png)
+![Solved Challenges](screenshots/05-owasp-juice-shop-initial-challenges.png)
+
