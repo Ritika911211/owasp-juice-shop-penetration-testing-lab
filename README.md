@@ -99,3 +99,20 @@ Burp Suite Community Edition
 # ⚠️ Disclaimer
 
 This project was performed only on OWASP Juice Shop, an intentionally vulnerable web application designed for security training. No unauthorized testing was conducted against real-world systems.
+
+## Screenshots
+
+### 1. Docker Installation and Service Verification
+![Docker](screenshots/01-docker-installation-and-service-status.png)
+
+### 2. OWASP Juice Shop Running
+![Juice Shop](screenshots/02-owasp-juice-shop-homepage.png)
+
+### 3. Burp Suite HTTP History
+![HTTP History](screenshots/03-burp-suite-http-history.png)
+
+### 4. Burp Suite Target Site Map
+![Target](screenshots/04-burp-suite-target-site-map.png)
+
+### 5. Initial OWASP Juice Shop Challenges
+![Challenges](screenshots/05-owasp-juice-shop-initial-challenges.png)
