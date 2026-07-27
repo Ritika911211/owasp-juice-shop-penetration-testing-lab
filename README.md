@@ -121,3 +121,15 @@ This project was performed only on OWASP Juice Shop, an intentionally vulnerable
 ### 5. Initial OWASP Juice Shop Challenges
 ![Solved Challenges](screenshots/05-owasp-juice-shop-initial-challenges.png)
 
+### 6. SQL Injection Login Payload
+![SQL Injection Login](screenshots/06-sqli-login-payload.png)
+
+### 7. SQL Injection Request & Response
+![SQL Injection Burp](screenshots/07-sqli-request-response.png)
+
+### 8. Reflected XSS Payload Testing
+![XSS Payload](screenshots/08-xss-payload.png)
+
+### 9. Successful XSS Execution
+![XSS Alert](screenshots/09-xss-alert-success.png)
+
