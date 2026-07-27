@@ -122,7 +122,7 @@ This project was performed only on OWASP Juice Shop, an intentionally vulnerable
 ![Solved Challenges](screenshots/05-owasp-juice-shop-initial-challenges.png)
 
 ### 6. SQL Injection Login Payload
-![SQL Injection Login](screenshots/06-sqli-login-payload.png)
+![SQL Injection Login](screenshots/SQLi-Login-Payload.png)
 
 ### 7. SQL Injection Request & Response
 ![SQL Injection Burp](screenshots/07-sqli-request-response.png)
