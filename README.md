@@ -57,9 +57,9 @@ The purpose of this lab is to understand how penetration testers analyze web app
 - [x] OWASP Juice Shop Deployed
 - [x] Burp Suite Installed
 - [x] HTTP Request Interception
-- [ ] Reconnaissance
-- [ ] SQL Injection Testing
-- [ ] Cross-Site Scripting (XSS)
+- [x] Reconnaissance
+- [x] SQL Injection Testing
+- [x] Cross-Site Scripting (XSS)
 - [ ] CSRF Testing
 - [ ] Security Findings Report
 
