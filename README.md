@@ -72,6 +72,10 @@ The purpose of this lab is to understand how penetration testers analyze web app
 - Burp Suite HTTP History
 - Burp Suite Target Site Map
 - Initial OWASP Juice Shop Challenges
+- Burp Repeater (SQL Injection)
+- SQL Injection Authentication Bypass
+- XSS Alert Popup
+
 
 ---
 
